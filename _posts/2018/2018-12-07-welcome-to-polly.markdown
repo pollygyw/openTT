@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "博客开张"
+title:  "新篇伊始"
 author: polly
 ---
 
-博客开张，莫名激动。
+
 
 ## 老来有所用 
 -----
