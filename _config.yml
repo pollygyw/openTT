@@ -31,7 +31,7 @@ paginate: 20
 title : 个人博客
 tagline: 不积跬步无以至千里
 assets: /assets
-url:""
+url: ""
 #baseurl:
 
 #### Language
